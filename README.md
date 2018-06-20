@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [How_The_Game_Works](#how the game works)
+* [How_The_Game_Works](#how_the_game_works)
 * [Dependencies](#dependencies)
 * [Test](#test)
 
@@ -32,4 +32,4 @@ Each turn:
 * [Udacity Webinar](https://www.youtube.com/watch?v=oECVwum-7Zc)
 
 ## Test
-* Memory Game [Play]()
+* Memory Game [Play](https://valermuresan.github.io/fend-project-memory-game/)
