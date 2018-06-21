@@ -61,8 +61,9 @@ function stopTimer() {
 // Create Reset function
 function reset() {
     matchedCards = [];
+    openedCards = [];
     moves = 0;
-    movesContainer.innerHTML = moves;
+    movesContainer.innerHTML = moves; 
     starsContainer.innerHTML = star + star + star;
     stopTimer();
     firstClick = true;
@@ -77,6 +78,7 @@ restartBtn.addEventListener("click", function() {
     startGame();
     // Game reset
     reset();
+
 });
 
 // Create Modal function from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal
